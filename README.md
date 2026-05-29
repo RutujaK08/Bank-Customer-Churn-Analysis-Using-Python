@@ -166,7 +166,7 @@ Skills: SQL, Power BI, Excel, Python, Tableau
 
 LinkedIn: [www.linkedin.com/in/rutujavk08](http://www.linkedin.com/in/rutujavk08)
 
-GitHub: [Your GitHub Profile Link]
+GitHub: [github.com/RutujaK08]
 
 ---
 
